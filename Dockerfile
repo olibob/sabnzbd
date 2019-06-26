@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.9.4
 
 ARG SABv=2.3.9
 ARG PAR2v=0.8.0
