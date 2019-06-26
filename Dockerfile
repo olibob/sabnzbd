@@ -1,6 +1,6 @@
 FROM alpine:3.7
 
-ARG SABv=2.3.5
+ARG SABv=2.3.9
 ARG PAR2v=0.8.0
 
 ENV LANG='en_US.UTF-8' \
